@@ -1,6 +1,7 @@
 # Salesforce-Flows
 Salesforce Flow for sending Birthday Wishes :
 
+Package Link for you : https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000009MmpB&isdtp=p1
  
 Worried about forgetting your friend’s birthday, I have a solution for you! With the power 
 of Salesforce flows, automating birthday reminders has never been easier. In this blog post, 
